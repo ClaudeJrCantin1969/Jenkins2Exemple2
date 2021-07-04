@@ -22,6 +22,7 @@ public class NewEmptyJUnitTest {
     
     @BeforeAll
     public static void setUpClass() {
+        erreur volontaire
     }
     
     @AfterAll
